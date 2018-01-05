@@ -1,0 +1,576 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+<head>
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+  <base href="http://tssindia.in/about-areca/scenario-of-areca-marketing.html" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="areca marketing, areca production india, areca nut plantation, arecanut marketing, areanut" />
+  <meta name="title" content="Scenario Of  Areca Marketing" />
+  <meta name="author" content="Administrator" />
+  <meta name="description" content="Scenario Of  Areca Marketing in India" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Scenario Of  Areca Marketing</title>
+  <link href="/templates/it_thestore/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/plugins/system/rokbox/themes/light/rokbox-style.css" type="text/css" />
+  <script type="text/javascript" src="/templates/it_thestore/js/mootools.php"></script>
+  <script type="text/javascript" src="/templates/it_thestore/js/IceScript.js"></script>
+  <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/plugins/system/rokbox/rokbox.js"></script>
+  <script type="text/javascript" src="/plugins/system/rokbox/themes/light/rokbox-config.js"></script>
+  <script type="text/javascript" src="http://tssindia.in/modules/mod_ice_accordion/js/ice_accordion.js"></script>
+  <script type="text/javascript">
+var rokboxPath = '/plugins/system/rokbox/';
+  </script>
+
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+
+
+<!-- CSS -->
+<style type="text/css" media="screen">
+/*\*/@import url("/templates/it_thestore/css/template_css.css.php");/**/
+/*\*/@import url("/templates/it_thestore/css/styles/style4.css");/**/
+</style>
+
+
+<style type="text/css" media="screen">
+#container { 
+padding-left: 192px; 
+padding-right: 212px; }
+	
+
+</style>
+<!--[if lte IE 7]>
+  <link rel="stylesheet" type="text/css" href="/templates/it_thestore/css/ie.css" />
+<![endif]-->
+
+<!--[if lt IE 7]>
+<script type="text/javascript"  src="/templates/it_thestore/js/fixpng.js"></script>
+ 
+<style type="text/css" media="screen">
+body{behavior:url(/templates/it_thestore/css/csshover.htc);}
+
+</style>
+<![endif]-->
+
+
+<script type='text/javascript'>
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-51185456-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+
+<body class="font-medium" onLoad="TopPanelSlide.hide()"  >
+
+
+
+<div id="accessibility">
+	<a href="#nav">Skip to Menu</a>
+    <a href="#mainwrapper" >Skip to Content</a>
+    <a href="#footer" >Skip to Footer</a>
+</div>
+
+
+	        <div id="top_panel">
+    
+		<div id="content_panel">
+        
+			            	<div class="style6  floatleft">
+                	        
+        <div class="icemodule">
+			<div><div><div><div>	
+							<h3><span>Login </span></h3>
+			            
+			
+<form action="/about-areca/scenario-of-areca-marketing.html" method="post" name="login" class="form-login">
+	<fieldset>
+	    
+		<p>
+        <label for="mod_login_username">Username</label>
+		<input name="username" id="mod_login_username" type="text" class="inputbox" value="Username..."  onblur="if(this.value=='') this.value='Username...';" onfocus="if(this.value=='Username...') this.value='';" alt="Username" />
+        </p>
+        
+		<p>
+        <label for="mod_login_password">Password</label>
+        <input type="password" id="mod_login_password" name="passwd" class="inputbox" value="Password..."  onblur="if(this.value=='') this.value='Password...';" onfocus="if(this.value=='Password...') this.value='';"  alt="Password" />
+        </p>
+        
+		        
+		<p class="last clearfix">
+        <input type="submit" name="Submit" class="button" value="Log in" />
+		</p>
+        
+        
+	<p>
+		<a href="/component/user/reset.html#content">
+			Forgot your password?</a>
+	</p>
+
+
+    
+		<input type="hidden" name="option" value="com_user" />
+	<input type="hidden" name="task" value="login" />
+	<input type="hidden" name="return" value="L2Fib3V0LWFyZWNhL3NjZW5hcmlvLW9mLWFyZWNhLW1hcmtldGluZy5odG1sI2NvbnRlbnQ=" />
+	<input type="hidden" name="b8a5bfa4303e9eb6efe4103eabbde2c0" value="1" />    
+   </fieldset>
+</form>
+
+        	</div></div></div></div>     
+		</div>
+       
+      
+                </div>
+                       
+            
+                                     	
+             	
+            
+        </div>
+        
+	</div>
+             
+    <div id="userarea_wrap">
+    	
+        <div id="userarea">
+        	
+			            <div class="floatleft">
+            	<a id="top_panel_slide" href="#">Member Area</a>
+                  
+                  <script type="text/javascript">
+						var TopPanelSlide = new Fx.Slide('top_panel');
+						$('top_panel_slide').addEvent('click', function(e){
+							e = new Event(e);
+							document.getElementById("top_panel").style.display="block";
+							TopPanelSlide.toggle();
+							e.stop();
+						});
+   				 </script>
+            </div>
+        	            
+            
+            <div class="floatright"> 
+            
+				 
+                
+                                <div id="currentdate">
+                    <p>Saturday, 
+                     <span>Dec 23rd</span></p>
+                </div>   
+                                
+                                
+        	</div>
+            
+		</div>
+        
+    </div>
+
+	<div id="header_wrap">
+		
+        <div id="header">
+                             
+                        <div id="banner1">
+            	<p><embed width="300" height="100" menu="true" loop="true" play="true"  wmode="transparent" src="/images/stories/flash/Untitledf-1.swf" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" /></p>
+            </div>
+      		            
+            <div id="logo">
+                <a href="/" title="Home"><img src="/templates/it_thestore/images/logo.jpg" width="350" height="100" alt="Logo"/></a>
+            </div>
+            
+                        <div id="banner2">
+            	<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <embed width="200" height="30" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" src="/images/stories/flash/market.swf" wmode="transparent" play="true" loop="true" menu="true" /></p>
+            </div>
+      		            
+            
+        </div>
+
+    </div>    
+   
+   <div id="nav_wrap">
+	               <div id="nav" class="cleafix">
+                <ul class="menu"><li id="current" class="active item1"><a href="http://www.tssindia.in/"><span>Home</span></a></li><li class="parent item27"><span class="separator"><span>About Us</span></span><ul class="accordionstyle"><li class="item34"><a href="/about-us/origin-and-growth.html"><span>Origin and Growth</span></a></li><li class="item54"><a href="/about-us/board-of-directors.html"><span>Board Of Directors</span></a></li><li class="item56"><a href="/about-us/main-objectives.html"><span>Main Objectives</span></a></li><li class="item57"><a href="/about-us/marketing.html"><span>Marketing</span></a></li><li class="item58"><a href="/about-us/achievements-and-awards.html"><span>Achievements And Awards</span></a></li><li class="item91"><a href="/about-us/facilities-to-members.html"><span>Facilities to Members</span></a></li></ul></li><li class="parent item53"><span class="separator"><span>Branches</span></span><ul class="accordionstyle"><li class="item59"><a href="/branches/yallapur.html"><span>Yallapur</span></a></li><li class="item60"><a href="/branches/siddapur.html"><span>Siddapur</span></a></li></ul></li><li class="parent item2"><span class="separator"><span>Sections</span></span><ul class="accordionstyle"><li class="item61"><a href="/sections/rice-mill.html"><span>Rice Mill</span></a></li><li class="item62"><a href="/sections/arecanut-trading.html"><span>Arecanut Trading</span></a></li><li class="item64"><a href="/sections/samrat-guest-house.html"><span>Samrat Guest House</span></a></li><li class="item65"><a href="/sections/kirana.html"><span>Kirana</span></a></li></ul></li><li class="parent item41"><span class="separator"><span>Products</span></span><ul class="accordionstyle"><li class="item66"><a href="/products/arecanutbetlenut.html"><span>Arecanut/Betlenut</span></a></li><li class="item110"><a href="/products/sweet-supari.html"><span>Sweet Supari</span></a></li></ul></li><li class="item70"><a href="/galery.html"><span>Gallery</span></a></li><li class="parent item71"><span class="separator"><span>Reports</span></span><ul class="accordionstyle"><li class="item89"><a href="/reports/market-report.html"><span>Market Report</span></a></li></ul></li><li class="parent item49"><span class="separator"><span>Misc</span></span><ul class="accordionstyle"><li class="item111"><a href="/misc/account-info.html"><span>Account Info</span></a></li></ul></li><li class="item50"><a href="/contact-us.html"><span>Contact Us</span></a></li></ul>  
+            </div>  	
+            
+	<div id="content_gradient_top">
+        
+		<div id="content_gradient_bottom">
+        
+			<div id="content_shadow">
+        
+        		<div id="content_sec">
+                </div>
+    				
+                                        <div id="promo_wrap">
+        
+                    	<div id="promo">
+                			
+							                                <div id="promoarea">
+										
+                                        <div class="floatleft">
+                                        
+<form action="index.php"  method="post" id="search" class="search">
+	<p>
+    
+    <label for="mod_search_searchword">	
+		Search	</label>
+	<input name="searchword" id="mod_search_searchword" maxlength="60" alt="Search" class="inputbox" type="text" size="30" value="search..."  onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';" />	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="task"   value="search" />
+    </p> 
+</form>
+
+                                        </div>
+                                                                        
+                                                                        	<div class="floatright">
+                                        <p><embed width="250" height="40" menu="true" loop="true" play="true" src="/images/stories/flash/downbalance.swf" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" /></p>
+                                    	</div>
+									                                </div>
+                                                        
+                            
+                                                        
+                                                        
+                        </div>
+                           
+					</div> 
+                                           
+						
+                        <div id="mainwrapper">		
+            
+            				<div id="container">
+                
+                				<div id="maincol" class="column">
+    								                                    <div id="breadcrumbs">
+                                        <ol>
+<li><a href="http://tssindia.in/">Home</a></li><li>About Areca</li><li class="last"><span>Scenario Of Areca Marketing</span></li></ol>
+                                    </div>   
+                                    <span class="clearfix">&nbsp;</span>                
+                
+                                                                    	
+                                     
+                                    <script type="text/javascript">
+function disableSelection(target){
+if (typeof target.onselectstart!="undefined") //IE route
+	target.onselectstart=function(){return false}
+else if (typeof target.style.MozUserSelect!="undefined") //Firefox route
+	target.style.MozUserSelect="none"
+else //All other route (ie: Opera)
+	target.onmousedown=function(){return false}
+target.style.cursor = "default"
+}
+
+
+disableSelection(document.body) //Disable text selection on entire body
+</script>
+<div id="page">
+
+
+
+
+
+
+<p class="buttonheading">
+	</p>
+
+
+<span class="clearfix">&nbsp;</span>
+
+
+
+
+<p align="center"><u>&nbsp;SCENARIO OF ARECA MARKETING</u></p>
+<p>&nbsp;</p>
+<p>Arecanut is a crop whose production is concentrated in a few states but consumption spreads throughout the country. The produce gathered in the producing centres is distributed to the other areas.<br />
+In India, arecanut is marketed as unhusked whole fruit, dehusked and dried nut, boiled dried whole kernel or boiled split and in the form of VAPS. About 20 percent of total areca production in the country is consumed as ripe fruit, and the rest in the form of whole nut and processed forms. Marketing of semi-ripe, fully-ripe or fermented arecaut has gained considerable value in Assam, Kerala and West Bengal. In Kerala, nearly 25 percent of the produce is marketed after harvest either as semi-ripe or fully ripe.<br />
+In important arecanut markets in Karnataka the commission agents conduct auction and arrange sale for the produce. The buyers, after taking delivery, dispatch this produce to different terminal centres for consumption. Karnataka, Kerala, Tamilnadu, and Goa have established regulated markets for arecanut. In Karnataka there are 23 regulated markets for arecanut growing regions. In Kerala, there are 4 regulated markets. In Tamilnadu and Goa, the role of regulated markets is minimum. In Karnataka, Kerala and Tamilnadu more than 30 percent of the marketable surplus is dealt by co-operative societies. There are more than 16 major co-operative marketing societies handling arecanut in Karnataka. The Daxshina Kannada society is the oldest at Mangalore (set up in 1919, at Mangalore) followed by the one at Sirsi(Totgars sale society set up in 1923) and those in Shimoga, Sagar,Arakalgud, (in Tumkur) and Kumta. Most of this societies function as agencies of the Central Arecanut and Cocoa Marketing and processing Co-operative Limited, (CAMCO) Mangalore. In Kerala, Tamilnadu and other states, these societies have not made much progress. The price of arecanut varies from market on account of differences in variety grade colour maturity moisture content etc.,<br />
+The price fluctuation are not only due to variation in supply position of the commodity but also due to availability or otherwise of the lack of transport facilities from one region to other, efficiency of the market services, availability of credit and storage facilities and above all, the system of marketing free from exploitation.<br />
+As regards to harvest period, in Kerala, Maharashtra, and Tamilnadu the season is from October to January, depending upon (First, second and third) crop cutting practices.<br />
+So far as grading of araca is concerned, there are two types of grading in arecanut: traditional and commercial. Basically,the producer does traditional grading by making four to five varieties. Commercial grading is done by the traders in sizing of arecanut. The agmark grade specifications for old dried arecanut have already been set up under the agricultural Produce Act, 1937. Agmark grade is based on size and quality of nuts. There are 12 grades depending upon the percentage of size, coprawhite, yellowish brown and damaged nuts.<br />
+<br />
+Every year, about 9 to 12depending upon the percentage of size, coprawhite, yellowish brown and damaged nuts.<br />
+Every year, about 9 to 12 percent of harvested ripe arecanut is stored in pits or steeped in water for consumption, during off season in Assam, Karnataka, Tamilnadu and West Bengal. About 10 percent dried arecanuts, 3 percent boiled and dried areanuts are stored in the production centers with an expectation of getting higher rate in the off season i.e. July to October. In 1960&rsquo;s India was importing arecanut from its domestic consumption, now we are in a position to export. After 1980, when &ldquo;Panmasala&rdquo; containing scented Supari was introduced, export of VAPS has been slowly increasing. Apart from this, a product like gutkha has increased the consumption quantity of arecanut.<br />
+There are no exclusive markets for the sale of arecanut in the country. Unlike other agricultural crops, arecanut also forms one of the commodities handled in a particular market. The important assembling markets in Karnataka are Mangalore, Shimoga, Sirsi, Sagar,Kumta and Bhimasamudra. Palai, Ponkunnam, Alleppey, Cochin, Trichur and Kasargod are important assembling and distribution centres in Kerala. In Assam, Guwahati and Dhubri and Shillong are the main centres. Chennai and Mettupalyam are major&nbsp; marketing centres in Tamilnadu. Ponda and Bicholim are said to be small marketing centres of Goa.</p>
+<div align="center"><u>ARECA MARKETING<strong><br />
+</strong></u></div>
+<p>MEANING<br />
+Areca marketing is the systematic performance of areca business activities elated to processing, grading, standardizing, packing, assembling, transporting, storing, financing, selling and distributing in order to reach the areca produce from the point of producer farmers to the point of ultimate consumers. In the process of areca marketing production being the starting point of marketing it provides proper base, shape and color to the marketing arrangement. Therefore , based on the nature of concentration and pattern of consumption of areca produce existing marketing structure can be divided into three levels.<br />
+1.&nbsp;&nbsp;&nbsp; PRIMARY MARKET: It is an arrangement for marketing of arecanut where produce of areca flows from the producer to the traders of primary market with the help of intermediaries.<br />
+2.&nbsp;&nbsp;&nbsp; SECONDARY MARKET: Secondary market is an arrangement of wholesale market where areca produce is handled in large quantities with the help of specialized to reach the arecanut to the terminal point.<br />
+3.&nbsp;&nbsp;&nbsp; TERMINAL MARKET : Terminal market of areca is the final point of market from where the areca produce is distributed to the final consumers through the well established retail network establishment.<br />
+&nbsp;&nbsp;&nbsp; While initiating the process of directing the flow of areca produce, from the destination of production to consumption farmers, traders cum farmers, crop contractors, petty traders, village merchants, commission agents, processors, collectors, co-operative societies, retailers, wholesale traders, transporters, Agricultural Produce Market Committees, weigh men, and porters will participate and constitute the whole network of areca marketing system. Finally the major success of areca marketing system is depending upon the rate of production and active participation from the marketers. Efficient disposal of areca produce is the subject matter of areca marketing. Aspects of production and processing will contribute towards the problems and prospects of areca marketing.</p>
+<div align="center"><u>MARKETING STRUCTURE AND PROFILE<br />
+</u></div>
+<p>&nbsp;&nbsp;&nbsp; The marketing functionaries involved in the process comprise traders CAS exporters, village traders, petty traders and crop contractors. All these intermediaries operate further from the co-societies located at the Taluk head quarters. Final traders in turn, by it from the open market provided by these societies and other CAS. Before selling to final traders in the secondary market commercial grading is done in the form of size, then after called by different name, &ldquo;Zam&rdquo;, &ldquo;Mora&rdquo;&nbsp;&nbsp; and so on. Red variety arecanut of Malnadu region have good demand in local market of Karnataka, Bombay, Nagpur and Lucknow market. Emerging developments of VAPS of areca, and development of gutkha industry have opened the flood gates of new avenues of revenues of the farmers. They preferred the red variety, specially for gutkha production. The white variety &ldquo;Chali&rdquo; has a good demand in Bombay and Gujrat market too. The factory variety has good demand in local market as well as in Bombay market. However, producers are least bothered in commercial grading, as they do not have much knowledge on secondary marketing even most of the farmers do not know where arecanut&rsquo;s&nbsp; are sold, what is done after they sell, where and how it is used. Producers sell their produce in the primary market having done traditional grading mainly &ldquo; Rashi&rdquo;, or &ldquo;Chikani&rdquo;, &ldquo; Kempgotu&rdquo; in red varieties, &ldquo;Chali&rdquo;, &ldquo;Bilegotu&rdquo;, Vodaku, Koka&rdquo; Facory&rdquo; or &ldquo;Niredike&rdquo; or Gotadike&rdquo; in white varieties.</p>
+<p>&nbsp;</p>
+<p align="center"><u>&nbsp;MARKETING SCENARIO OF ARECANUT IN UTTAR KANNADA DISTRICT&nbsp;</u></p>
+<p>Although production is wide spread throughout the Dist., marketing is mainly concentrated in Sirsi, Yellapur, Kumta and Honnavar. In these&nbsp; places agricultural Produce Market Committee (APMC) branches are functioning with the best intension of providing protection to the farmers from exploitation of private traders in the best interest of farmers in Ankola, Bhatkal, Joida and Mundgod. There are no marketing facilities. Therefore, farmers from these areas depending upon nearby market centers of the Dist. and neighboring Dist. as well. Majority farmers from the areas of Ankola, Mundgod and Joida they prefer to sell their produce at Yellapur market. The factors of proximity made them to take this measure. Few farmers of Mundgod Taluka, prefer to sell in Sirsi market which is closer to them. Whereas farmers from Bhatkal, take chance to sell areca in different market centers of Kumta and Honnavar in the Dist., Kundapur in Udupi Dist. and Sagar in Shimoga Dist. Sirsi marketis one of the famous&nbsp; areca markets in the state and U.K. Dist. as well. Here all types of areca produced in the Dist. are sold except the &ldquo;Factory&rdquo; variety. It attracts arecanut from the areas of Sirsi, Yellapur, Kumta, Mundgod and Soraba Taluka of Shimoga Dist. It represents, a leading areca market from the Malanadu region and Dist. as well. It is going ahead, outstripping all other markets in the Dist.<br />
+&nbsp;&nbsp;&nbsp; Siddapur is also not lagging behind. It attracts areca from Siddapur area and parts of Sagar and Sorab Taluk&rsquo;s of the neighboring Dist. All verities of areca produced in the Malnadu region are dealt in this market. Yellapur is another emerging market center of the Dist. in general, Malnadu region in particular. It was always well known as a market for &lsquo;Redsupari&rsquo;or &lsquo;Aapi&rsquo; variety. It attracts arecanut from the surrounding area of Yellapur, Sirsi, Mundgod, Joida and Ankola. All types of areca nuts of this area are transacted here. Marketing center in the postal belt are famous for dried variety of arecanut. (i.e., &lsquo;Chali&rsquo;) Marketing of &lsquo;factory&rsquo;(Fermented areca fruit&rdquo;) is also seen here. In this region Kumta and Honnavar are emerged as major marketing center for arecanut. Kumta market leads in terms of arrivals and sales of arecanuts compared to Honnavar, market. It attracts areca from the areas of Kumta, Honnavar and Bhatkal. It is identified as leading market of coastal belt.<br />
+&nbsp;&nbsp;&nbsp; Honnavar is the another major marketing center in the Upperghat section. It is also famous for dried varieties and factory type. It is also famous center for dealing areca fruits. For the farmers of Bhatkal, it is convenient market to sell dried varieties. However, in terms of business transaction, it is one of the smallest centers in the Dist.</p>
+<p>&nbsp;</p>
+<p>ARECA MARKETING IN UTTAR KANNADA<br />
+When we start to think of arecanut, specially place like UK Dist., indirectly it reflects as if we are thinking for development aspect of this Dist., Because, marketing of arecanut speaks about economics, agriculture, commerce, market and standard of living of this land. No doubt, effective and efficient marketing of arecanut can change the face of this Dist., In this connection, it is not enough if the areca production is stepped up, but it has to be disposed off at a lower marketing cost of an attractive price. Economy and efficiency should be base for an effective thinking and implementation of long run policy to see the over all development. Always, agricultural marketing requires more intelligent and dynamic &lsquo;strategy than the industrial products because of its peculiar nature of its cultivation and production processes. Arecanut is also not exception to that.<br />
+Following are the salient features of areca produce to be understand while imbedding the marketing techniques of arecanut.<br />
+&nbsp; 1. Production is concentrated throughout the Dist., market is concentrated at Taluka head quarters.<br />
+&nbsp; 2. Around 5 percent of production is consumed in the Dist., remaining 95 percent is sold to outside the Dist., and state.<br />
+&nbsp; 3. Consumption of arecanut is wide spread.&nbsp; <br />
+&nbsp; 4. Marketing problems are associated in the areas of production and processing in relation with traders and consumers.<br />
+&nbsp; 5. Production is seasonal and crop comes once in a year. However, it can be stored generally up to 2 years.<br />
+&nbsp; 6. There will be a demand for arecanut throughout the year.<br />
+&nbsp; 7. Areca producers and traders always experience and play the game with strange price behavior.<br />
+&nbsp; 8. Sales tax imposed on arecanut is high. Further it is levied on various points, so that consumer has to spend more.<br />
+&nbsp; 9. Tax evasion has become order of the areca marketing. Therefore, the attitude of farmers and traders contributed the emerging trend of second sale in the exchange function of areca.<br />
+&nbsp; 10. Market structure comprises of primary secondary and terminal market.</p>
+
+
+<p class="noticebottom clearfix">
+	    
+	    <span class="page_title">
+       You are reading <strong>Scenario Of  Areca Marketing</strong> articles
+    </span> 
+      
+</p>
+
+</div>
+ 
+                                    
+										                				
+                                		                                
+                				</div>
+                
+                
+								                                <div id="leftcol" class="column">
+                                	                                        <div id="othermenu" class="clearfix">
+                                                <ul class="menu"><li class="parent item73"><span class="separator"><span>About Areca</span></span><ul class="accordionstyle"><li class="item74"><a href="/about-areca/global-scene.html"><span>Global Scene</span></a></li><li class="item75"><a href="/about-areca/scenario-of-areca-marketing.html"><span>Scenario Of Areca Marketing</span></a></li><li class="item78"><a href="/about-areca/description-of-study-areca.html"><span>Description Of Study Areca</span></a></li><li class="item84"><a href="/about-areca/probems-in-marketing.html"><span>Probems in Marketing</span></a></li><li class="item90"><a href="/about-areca/cultivation-cost-of-arecanut.html"><span>Cultivation Cost Of Arecanut</span></a></li><li class="item93"><a href="/about-areca/verities-of-red-arecanut.html"><span>Verities of Red Arecanut</span></a></li><li class="item92"><a href="/about-areca/verities-of-white-aracanut.html"><span>Verities of White Arecanut</span></a></li><li class="item79"><a href="/about-areca/areca-in-karnataka.html"><span>Areca  in Karnataka</span></a></li><li class="item82"><a href="/about-areca/production.html"><span>Problems in Production</span></a></li><li class="item83"><a href="/about-areca/problems-in-processing.html"><span>Problems in Processing</span></a></li><li class="item85"><a href="/about-areca/quality-factors.html"><span>Quality Factors</span></a></li><li class="item86"><a href="/about-areca/uses-of-areca.html"><span>Uses of Areca</span></a></li></ul></li><li class="parent item103"><span class="separator"><span>Pepper</span></span><ul class="accordionstyle"><li class="item104"><a href="/pepper/global-scene.html"><span>Global scene</span></a></li><li class="item106"><a href="/pepper/plant-protection.html"><span>Plant protection</span></a></li><li class="item105"><a href="/pepper/establishment-of-plantations.html"><span>Establishment of plantations</span></a></li><li class="item107"><a href="/pepper/propagation.html"><span>Propagation</span></a></li><li class="item108"><a href="/pepper/production.html"><span>Production</span></a></li><li class="item109"><a href="/pepper/nursery-diseases.html"><span>Nursery Diseases</span></a></li></ul></li></ul>
+                                        </div>
+                                        
+                                                                                
+        <div class="icemodule">
+			<div><div><div><div>	
+							<h3><span>News Letter</span></h3>
+			            
+			<p>Tss Monthly News Letter.</p>
+<p><a href="http://www.tssindia.in/tss_news.pdf" target="_blank"><img src="/images/stories/tss_news.png" alt="" /></a><br />
+<a href="/www.tssindia.in/tss_news.pdf" target="_blank"><img src="/images/stories/tss_news.png" width="0" height="0" alt="" /></a><br />
+Clink To Download.</p>        	</div></div></div></div>     
+		</div>
+       
+              
+        <div class="icemodule">
+			<div><div><div><div>	
+							<h3><span>Trade Marks</span></h3>
+			            
+			
+<div class="iceaccordion">
+	
+    <ul id="slidestyle">
+		
+		                   <li> 
+        	<h4><a name="a" href="#">Platinum</a><span>+</span></h4>
+			<div class="collapse">
+				<div class="collapse-container">
+						<p><img height="101" width="157" border="0" alt="" src="/images/stories/platinum.JPG" /></p>    
+	
+
+				</div>
+			</div>
+            </li>
+                           <li> 
+        	<h4><a name="a" href="#">Arjun</a><span>+</span></h4>
+			<div class="collapse">
+				<div class="collapse-container">
+						<p><img border="0" alt="" src="/images/stories/arjun.jpg" /></p>    
+	
+
+				</div>
+			</div>
+            </li>
+                           <li> 
+        	<h4><a name="a" href="#">Amrut</a><span>+</span></h4>
+			<div class="collapse">
+				<div class="collapse-container">
+						<p><img border="0" alt="" src="/images/stories/amrut%20_.jpg" /></p>    
+	
+
+				</div>
+			</div>
+            </li>
+                           <li> 
+        	<h4><a name="a" href="#">Tiger</a><span>+</span></h4>
+			<div class="collapse">
+				<div class="collapse-container">
+						<p><img border="0" alt="" src="/images/stories/tiger_.jpg" /></p>    
+	
+
+				</div>
+			</div>
+            </li>
+                           <li> 
+        	<h4><a name="a" href="#">TSS Gold</a><span>+</span></h4>
+			<div class="collapse">
+				<div class="collapse-container">
+						<p><img height="156" width="139" border="0" src="/images/stories/GOLD.jpg" alt="" /></p>    
+	
+
+				</div>
+			</div>
+            </li>
+                    
+		
+      </ul>  
+     
+	</div>
+        	</div></div></div></div>     
+		</div>
+       
+              
+        <div class="icemodule">
+			<div><div><div><div>	
+			            
+			<script language=JavaScript>
+<!--
+
+//Disable right click script III- By Renigade (renigade@mediaone.net)
+//For full source code, visit http://www.dynamicdrive.com
+
+var message="";
+///////////////////////////////////
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if 
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers) 
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+
+document.oncontextmenu=new Function("return false")
+// --> 
+</script>        	</div></div></div></div>     
+		</div>
+       
+      
+                                </div>
+                                                
+								                                <div id="rightcol" class="column">
+                                	        
+        <div class="icemodule">
+			<div><div><div><div>	
+							<h3><span>Latest News</span></h3>
+			            
+			
+<ul>
+		<li class="latestnews">
+		<a href="/component/content/article/41-branch/114-mundgod.html" class="latestnews">
+			MUNDGOD</a>
+	</li>
+		<li class="latestnews">
+		<a href="/misc/account-info.html" class="latestnews">
+			Account Numbers</a>
+	</li>
+		<li class="latestnews">
+		<a href="/products/sweet-supari.html" class="latestnews">
+			Sweet Supari</a>
+	</li>
+		<li class="latestnews">
+		<a href="/pepper/plant-protection.html" class="latestnews">
+			Plant protection</a>
+	</li>
+		<li class="latestnews">
+		<a href="/pepper/establishment-of-plantations.html" class="latestnews">
+			Establishment of plantations</a>
+	</li>
+	</ul>
+        	</div></div></div></div>     
+		</div>
+       
+              
+        <div class="icemodule">
+			<div><div><div><div>	
+							<h3><span>Popular</span></h3>
+			            
+			
+
+
+<ul class="mostreadmod">
+		<li>
+		<a href="/reports/market-report.html">
+			Online Report		</a>
+	</li>
+		<li>
+		<a href="/about-areca/areca-in-karnataka.html">
+			Areca Nut in Karnataka		</a>
+	</li>
+		<li>
+		<a href="/component/content/article/41-branch/114-mundgod.html">
+			MUNDGOD		</a>
+	</li>
+		<li>
+		<a href="/about-areca/uses-of-areca.html">
+			Uses Of Areca 		</a>
+	</li>
+		<li>
+		<a href="/about-areca/cultivation-cost-of-arecanut.html">
+			Cultivation Cost of Areca		</a>
+	</li>
+	</ul>
+        	</div></div></div></div>     
+		</div>
+       
+              
+        <div class="icemodule">
+			<div><div><div><div>	
+							<h3><span>Solar Drier</span></h3>
+			            
+			<p class="Bold"><span style="font-size: 14px;"><span style="color: rgb(255, 0, 0);">Solar Drier at very low cost.</span></span><br />
+<a href="http://tssindia.in/Drier.pdf" target="_blank">Click here for more info.</a></p>        	</div></div></div></div>     
+		</div>
+       
+      
+                                </div>
+                                                
+                            </div>
+                            
+                        </div>        
+
+
+
+                    </div>
+            
+                 </div>
+   		
+  		     </div>
+             
+		</div>
+        
+                    
+                         
+            <div id="footer_wrap">
+    			
+                <div id="footer">
+        	
+         			<div id="copyright"> 
+            		<p>Copyright &#169; 2017 TSS SIRSI. All Rights Reserved.</p>
+
+                    	<ul>
+                            
+                            <li><a href="http://www.dotcord.com"> Powered by dotCord.</a></li>
+                         </ul>
+           			</div>
+         		
+                <div id="footer_sec"></div>    	
+                
+         		</div>
+                
+   			 </div>       
+ 
+    
+   
+</body>
+</html>

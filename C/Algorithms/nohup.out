@@ -1,0 +1,27 @@
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for 4294967295, skipping unlock
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for 4294967295, skipping unlock
+Error opening audio file "/usr/share/buckle/wav/72-1.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/72-0.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/c0-1.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/c0-0.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/37-1.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/37-0.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/4f-1.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/50-1.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/4f-0.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/50-0.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/51-1.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/51-0.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/71-1.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/71-0.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/4c-1.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/4c-0.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/48-1.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/48-0.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/47-1.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/47-0.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/4b-1.wav": Failed to open file
+Error opening audio file "/usr/share/buckle/wav/4b-0.wav": Failed to open file
