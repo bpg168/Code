@@ -39,13 +39,14 @@ class Words:
         Function names are put in a list which are mapped to the options given to user
             - this is a way of simulating a swith case(python doesn't have it's own switch case)
         """
-        defList = ['add_word', 'status', 'total_words', 'find_word']
+        defList = ['add_word', 'status', 'total_words', 'find_word', 'keepAdding']
         print(
             "1 : Add a new word\
             2 : Show the Status\
             3 : Strength of collection\
             4 : Find a word\n\
-            \rNon Numbers : Quit")
+            \r5 : Enter add word session\
+            Non Numbers : Quit")
         try:
             """ exec can execute a string as a line of code
                 here it is invoking the different functions of the class
@@ -59,6 +60,9 @@ class Words:
                 \nHave a nice day")
             exit(0)
 
+    def keepAdding(self):
+        while True:
+            self.add_word()
     def add_word(self, newWord="None"):
         """
         Why the optional parameter:
@@ -75,11 +79,12 @@ class Words:
                 - each sublist is a row
                 - values in each sublist correspond to columns
         """
-        print(self.count)
+        # print(self.count)
         if newWord == 'None':
             newWord = input("Enter a word to add :\t")
-        print(self.words)
+        # print(self.words)
         self.words.add(newWord)
+        temporaryHolder = self.words
         shuffledList = []
         for i in range(0, self.count):
             try:
@@ -95,6 +100,7 @@ class Words:
               > self.count else "is already available")
         self.count += 1 if len(shuffledList) > self.count else 0
         self.total_words()
+        self.words = temporaryHolder
 
     def total_words(self):
         """
